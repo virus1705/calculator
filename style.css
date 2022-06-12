@@ -32,3 +32,15 @@ p{
     width: 25%;
     height: 50px;
 }
+.result{
+    background-color: orangered;
+}
+.op{
+    background-color: coral;
+}
+.del{
+    background-color: cadetblue;
+}
+.znak{
+    background-color: burlywood;
+}
