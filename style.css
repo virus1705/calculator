@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    height: 100vh;
+}
+p{
+    width: auto;
+    height: 5px;
+}
+
+.calc{
+    margin: auto;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+}
+.disp{
+    width: 100%;
+    padding: 15px 5px;
+    text-align: end;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+.but{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.button{
+    width: 25%;
+    height: 50px;
+}
